@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CodeAssessment\\BusinessAccessLayer\\BusinessAccessLayer.csproj": {}
+    "E:\\ProductStockApiCode\\BusinessAccessLayer\\BusinessAccessLayer.csproj": {}
   },
   "projects": {
-    "E:\\CodeAssessment\\BusinessAccessLayer\\BusinessAccessLayer.csproj": {
+    "E:\\ProductStockApiCode\\BusinessAccessLayer\\BusinessAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CodeAssessment\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
+        "projectUniqueName": "E:\\ProductStockApiCode\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
         "projectName": "BusinessAccessLayer",
-        "projectPath": "E:\\CodeAssessment\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
+        "projectPath": "E:\\ProductStockApiCode\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
         "packagesPath": "C:\\Users\\atulb\\.nuget\\packages\\",
-        "outputPath": "E:\\CodeAssessment\\BusinessAccessLayer\\obj\\",
+        "outputPath": "E:\\ProductStockApiCode\\BusinessAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\atulb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\CodeAssessment\\DataRepository\\DataRepository.csproj": {
-                "projectPath": "E:\\CodeAssessment\\DataRepository\\DataRepository.csproj"
+              "E:\\ProductStockApiCode\\DataRepository\\DataRepository.csproj": {
+                "projectPath": "E:\\ProductStockApiCode\\DataRepository\\DataRepository.csproj"
               },
-              "E:\\CodeAssessment\\Model\\Model.csproj": {
-                "projectPath": "E:\\CodeAssessment\\Model\\Model.csproj"
+              "E:\\ProductStockApiCode\\Model\\Model.csproj": {
+                "projectPath": "E:\\ProductStockApiCode\\Model\\Model.csproj"
               }
             }
           }
@@ -74,14 +74,14 @@
         }
       }
     },
-    "E:\\CodeAssessment\\DataRepository\\DataRepository.csproj": {
+    "E:\\ProductStockApiCode\\DataRepository\\DataRepository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CodeAssessment\\DataRepository\\DataRepository.csproj",
+        "projectUniqueName": "E:\\ProductStockApiCode\\DataRepository\\DataRepository.csproj",
         "projectName": "DataRepository",
-        "projectPath": "E:\\CodeAssessment\\DataRepository\\DataRepository.csproj",
+        "projectPath": "E:\\ProductStockApiCode\\DataRepository\\DataRepository.csproj",
         "packagesPath": "C:\\Users\\atulb\\.nuget\\packages\\",
-        "outputPath": "E:\\CodeAssessment\\DataRepository\\obj\\",
+        "outputPath": "E:\\ProductStockApiCode\\DataRepository\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\atulb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -98,8 +98,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "E:\\CodeAssessment\\Model\\Model.csproj": {
-                "projectPath": "E:\\CodeAssessment\\Model\\Model.csproj"
+              "E:\\ProductStockApiCode\\Model\\Model.csproj": {
+                "projectPath": "E:\\ProductStockApiCode\\Model\\Model.csproj"
               }
             }
           }
@@ -149,14 +149,14 @@
         }
       }
     },
-    "E:\\CodeAssessment\\Model\\Model.csproj": {
+    "E:\\ProductStockApiCode\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CodeAssessment\\Model\\Model.csproj",
+        "projectUniqueName": "E:\\ProductStockApiCode\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "E:\\CodeAssessment\\Model\\Model.csproj",
+        "projectPath": "E:\\ProductStockApiCode\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\atulb\\.nuget\\packages\\",
-        "outputPath": "E:\\CodeAssessment\\Model\\obj\\",
+        "outputPath": "E:\\ProductStockApiCode\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\atulb\\AppData\\Roaming\\NuGet\\NuGet.Config",

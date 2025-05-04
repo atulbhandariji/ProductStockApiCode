@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\CodeAssessment\\Model\\Model.csproj": {}
+    "E:\\ProductStockApiCode\\Model\\Model.csproj": {}
   },
   "projects": {
-    "E:\\CodeAssessment\\Model\\Model.csproj": {
+    "E:\\ProductStockApiCode\\Model\\Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\CodeAssessment\\Model\\Model.csproj",
+        "projectUniqueName": "E:\\ProductStockApiCode\\Model\\Model.csproj",
         "projectName": "Model",
-        "projectPath": "E:\\CodeAssessment\\Model\\Model.csproj",
+        "projectPath": "E:\\ProductStockApiCode\\Model\\Model.csproj",
         "packagesPath": "C:\\Users\\atulb\\.nuget\\packages\\",
-        "outputPath": "E:\\CodeAssessment\\Model\\obj\\",
+        "outputPath": "E:\\ProductStockApiCode\\Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\atulb\\AppData\\Roaming\\NuGet\\NuGet.Config",

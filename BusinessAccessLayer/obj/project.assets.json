@@ -2082,11 +2082,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\CodeAssessment\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
+      "projectUniqueName": "E:\\ProductStockApiCode\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
       "projectName": "BusinessAccessLayer",
-      "projectPath": "E:\\CodeAssessment\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
+      "projectPath": "E:\\ProductStockApiCode\\BusinessAccessLayer\\BusinessAccessLayer.csproj",
       "packagesPath": "C:\\Users\\atulb\\.nuget\\packages\\",
-      "outputPath": "E:\\CodeAssessment\\BusinessAccessLayer\\obj\\",
+      "outputPath": "E:\\ProductStockApiCode\\BusinessAccessLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\atulb\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2103,11 +2103,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\CodeAssessment\\DataRepository\\DataRepository.csproj": {
-              "projectPath": "E:\\CodeAssessment\\DataRepository\\DataRepository.csproj"
+            "E:\\ProductStockApiCode\\DataRepository\\DataRepository.csproj": {
+              "projectPath": "E:\\ProductStockApiCode\\DataRepository\\DataRepository.csproj"
             },
-            "E:\\CodeAssessment\\Model\\Model.csproj": {
-              "projectPath": "E:\\CodeAssessment\\Model\\Model.csproj"
+            "E:\\ProductStockApiCode\\Model\\Model.csproj": {
+              "projectPath": "E:\\ProductStockApiCode\\Model\\Model.csproj"
             }
           }
         }
